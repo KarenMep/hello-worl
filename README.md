@@ -2,4 +2,4 @@
 My first Repository
 
 
-I am Karen, and I like pizza
+I am Karen, and I like :pizza: :coffee: 🍔:
